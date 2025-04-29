@@ -38,7 +38,7 @@ double getVaildGrade(const string& prompt) {
 // Add students 
 void addStudents() {
     cin.ignore();
-    cout << "Enter students name press the Enter button to finish.";
+    cout << "Enter students name press the Enter button to finish."; 
         while (studentCount < maxStudents) {
             cout << "Student #" << studentCount + 1 << ":";
             getline(cin, names[studentCount]);
