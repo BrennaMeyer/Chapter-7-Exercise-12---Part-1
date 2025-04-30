@@ -18,5 +18,11 @@
     <ClCompile Include="Chapter 7 Exercise 12 - Part 1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="FILENAME.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="TextFile1.txt" />
   </ItemGroup>
 </Project>
